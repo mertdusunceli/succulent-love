@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>7EA97C49-C282-47F5-9D72-A9E652F5BF77</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7EA97C49-C282-47F5-9D72-A9E652F5BF77.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>succulent love project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>succulent love</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build succulent love</string>
+			<key>timeStartedRecording</key>
+			<real>558340350.50356996</real>
+			<key>timeStoppedRecording</key>
+			<real>558340384.63759696</real>
+			<key>title</key>
+			<string>Build succulent love</string>
+			<key>uniqueIdentifier</key>
+			<string>7EA97C49-C282-47F5-9D72-A9E652F5BF77</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

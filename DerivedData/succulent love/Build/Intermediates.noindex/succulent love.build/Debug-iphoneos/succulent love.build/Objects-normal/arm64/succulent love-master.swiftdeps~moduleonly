@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
+options: "c1a70634b73ef23ce83ee7a958b4d2ee"
+build_time: [1536647550, 718643000]
+inputs:
+  "/Users/mertdusunceli/Desktop/projects/succulent-love/succulent love/ViewController.swift": [1536647076, 0]
+  "/Users/mertdusunceli/Desktop/projects/succulent-love/succulent love/AppDelegate.swift": [1536643115, 0]
+  "/Users/mertdusunceli/Desktop/projects/succulent-love/DerivedData/succulent love/Build/Intermediates.noindex/succulent love.build/Debug-iphoneos/succulent love.build/DerivedSources/CoreMLGenerated/Resnet50/Resnet50.swift": [1536647550, 0]
+  "/Users/mertdusunceli/Desktop/projects/succulent-love/DerivedData/succulent love/Build/Intermediates.noindex/succulent love.build/Debug-iphoneos/succulent love.build/DerivedSources/CoreMLGenerated/ImageClassifier/ImageClassifier.swift": [1536647550, 0]
